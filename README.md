@@ -1,6 +1,6 @@
-# Oscar Chat Extractor
+# Backup Chat Extractor
 
-Scripts para extração de conversas do sistema Chatsac.
+Scripts para extração de conversas.
 
 ## Scripts
 
